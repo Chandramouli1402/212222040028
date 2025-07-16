@@ -22,7 +22,8 @@ This is a full-stack URL Shortener application where users can register, log in,
 
 ---
 ## Url Shortener
-![Uploading url_shortener.png…]()
+<img width="1918" height="1020" alt="url_shortener" src="https://github.com/user-attachments/assets/b1270c93-115a-41df-9726-f2d28e523656" />
+
 
 
 ## Shortened Url Statistics
